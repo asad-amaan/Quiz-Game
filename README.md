@@ -1,1 +1,1 @@
-This is a game created to test your basic computer knowledge. 
+This is a simple game created using if-else statements to test your basic computer knowledge. 
